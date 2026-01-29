@@ -7,3 +7,5 @@
 #all_http project: this project contain my work on all types of http method:
 
 - get,post,put,patch, and delete
+
+#API FINAL PROJECT: it includes a random secrets from api, and in UI its username and secrets be shown
